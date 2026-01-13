@@ -21,9 +21,9 @@ https://github.com/GregLuoDev/OrderAggregator
   - dotnet run -- Data/multiple.json, or
   - dotnet run -- Data/single.json
 
-  The csv files will be generated at folder "Output"
+The csv files will be generated in the "Output" folder.
 
-  ## File structure
+## File structure
 
-  The main algorithm lies in the SumFilledByTicker() and LargestFilledByTicker() methods of the Services/AggregationService.cs file
-  ![File structure](FileStructure.png)
+The main logic resides in the SumFilledByTicker() and LargestFilledByTicker() methods within the Services/AggregationService.cs file.
+![File structure](FileStructure.png)
