@@ -13,7 +13,9 @@ https://github.com/GregLuoDev/OrderAggregator
 ## Steps to run the solution locally
 
 - In VS2022, open this solution
+- Press F5 or ctrl+F5 to run it, or
+
 - Open: "View" → "Terminal"
 - In the terminal, run command:
-- - dotnet run -- Data/multiple.json, or
-- - dotnet run -- Data/single.json
+  - dotnet run -- Data/multiple.json, or
+  - dotnet run -- Data/single.json
