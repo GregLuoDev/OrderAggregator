@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "OrderAggregator": {
+      "commandName": "Project",
+      "commandLineArgs": "Data/single.json"
+    }
+  }
+}
