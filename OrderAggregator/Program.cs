@@ -19,3 +19,4 @@ CsvWriter.Write($"{basePath}_sum.csv", sumByTicker);
 CsvWriter.Write($"{basePath}_largest.csv", largestByTicker);
 
 Console.WriteLine("Order aggregation completed.");
+Console.ReadLine();

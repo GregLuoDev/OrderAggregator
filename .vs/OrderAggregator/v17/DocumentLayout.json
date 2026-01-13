@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "D:\\LGQ\\OrderAggregator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0020EE66-A512-447F-86FF-D171A16576D5}|OrderAggregator\\OrderAggregator.csproj|d:\\lgq\\orderaggregator\\orderaggregator\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{0020EE66-A512-447F-86FF-D171A16576D5}|OrderAggregator\\OrderAggregator.csproj|solutionrelative:orderaggregator\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0020EE66-A512-447F-86FF-D171A16576D5}|OrderAggregator\\OrderAggregator.csproj|d:\\lgq\\orderaggregator\\orderaggregator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0020EE66-A512-447F-86FF-D171A16576D5}|OrderAggregator\\OrderAggregator.csproj|solutionrelative:orderaggregator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0020EE66-A512-447F-86FF-D171A16576D5}|OrderAggregator\\OrderAggregator.csproj|d:\\lgq\\orderaggregator\\orderaggregator\\services\\aggregationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0020EE66-A512-447F-86FF-D171A16576D5}|OrderAggregator\\OrderAggregator.csproj|solutionrelative:orderaggregator\\services\\aggregationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0020EE66-A512-447F-86FF-D171A16576D5}|OrderAggregator\\OrderAggregator.csproj|d:\\lgq\\orderaggregator\\orderaggregator\\orderaggregator.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{0020EE66-A512-447F-86FF-D171A16576D5}|OrderAggregator\\OrderAggregator.csproj|solutionrelative:orderaggregator\\orderaggregator.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0020EE66-A512-447F-86FF-D171A16576D5}|OrderAggregator\\OrderAggregator.csproj|d:\\lgq\\orderaggregator\\orderaggregator\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0020EE66-A512-447F-86FF-D171A16576D5}|OrderAggregator\\OrderAggregator.csproj|solutionrelative:orderaggregator\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,7 +54,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "AggregationService.cs",
+              "DocumentMoniker": "D:\\LGQ\\OrderAggregator\\OrderAggregator\\Services\\AggregationService.cs",
+              "RelativeDocumentMoniker": "OrderAggregator\\Services\\AggregationService.cs",
+              "ToolTip": "D:\\LGQ\\OrderAggregator\\OrderAggregator\\Services\\AggregationService.cs",
+              "RelativeToolTip": "OrderAggregator\\Services\\AggregationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T11:38:49.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderAggregator",
+              "DocumentMoniker": "D:\\LGQ\\OrderAggregator\\OrderAggregator\\OrderAggregator.csproj",
+              "RelativeDocumentMoniker": "OrderAggregator\\OrderAggregator.csproj",
+              "ToolTip": "D:\\LGQ\\OrderAggregator\\OrderAggregator\\OrderAggregator.csproj",
+              "RelativeToolTip": "OrderAggregator\\OrderAggregator.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-13T11:27:11.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\LGQ\\OrderAggregator\\OrderAggregator\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "OrderAggregator\\Properties\\launchSettings.json",
@@ -54,18 +86,17 @@
               "RelativeToolTip": "OrderAggregator\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-13T11:20:34.886Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-13T11:20:34.886Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\LGQ\\OrderAggregator\\OrderAggregator\\Program.cs",
               "RelativeDocumentMoniker": "OrderAggregator\\Program.cs",
               "ToolTip": "D:\\LGQ\\OrderAggregator\\OrderAggregator\\Program.cs",
               "RelativeToolTip": "OrderAggregator\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-13T09:50:44.194Z",
               "EditorCaption": ""
