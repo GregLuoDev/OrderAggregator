@@ -17,5 +17,13 @@ https://github.com/GregLuoDev/OrderAggregator
 
 - Open: "View" → "Terminal"
 - In the terminal, run command:
+
   - dotnet run -- Data/multiple.json, or
   - dotnet run -- Data/single.json
+
+  The csv files will be generated at folder "Output"
+
+  ## File structure
+
+  The main algorithm lies in the SumFilledByTicker() and LargestFilledByTicker() methods of the Services/AggregationService.cs file
+  ![File structure](FileStructure.png)
