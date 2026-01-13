@@ -4,7 +4,7 @@ greg.luo@outlook.com, 0424376962
 
 ## Technical choices
 
-Console application by .NET 8 anc C# 12
+Console application by .NET 8 and C# 12.
 
 ## Github repo
 
